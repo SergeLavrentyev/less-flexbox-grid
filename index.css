@@ -1,0 +1,21 @@
+.container {
+  max-width: 76.25rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.card {
+  padding: 1.5rem;
+  border-radius: 5%;
+  box-shadow: 0 0 0.9rem 0rem pink;
+  height: 100%;
+  color: black;
+}
+
+.card__button {
+  background-color: rgba(0, 255, 255, 0.5);
+  padding: 0.5rem 2rem;
+  border-radius: 0.5rem;
+  border: none;
+}
