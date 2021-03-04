@@ -6,7 +6,7 @@
 
 Add `_grid.less` file via 
 ``` less
-@import (reference) "path/to/_grid.less"`  
+@import "path/to/_grid.less"`  
 ```
 
 ## How it works
